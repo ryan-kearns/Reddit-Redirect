@@ -1,2 +1,2 @@
-# Smile-Redirect
-Chrome Extension that redirects all amazon traffic to https://smile.amazon.com/
+# Reddit-Redirect
+Chrome Extension that redirects all reddit.com/{path} traffic to https://old.reddit.com/{path}
