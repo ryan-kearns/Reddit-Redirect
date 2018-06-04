@@ -1,6 +1,6 @@
 {
-    "name": "Smile Redirect",
-    "description": "Redirect to https://smile.amazon/",
+    "name": "Reddit Redirect",
+    "description": "Redirect to https://old.reddit.com/",
     "version": "1.0",
     "manifest_version": 2,
     "background": {
@@ -13,8 +13,8 @@
     },
     "permissions": [
         "webRequest",
-        "*://amazon.com/*",
-        "*://www.amazon.com/*",
+        "*://reddit.com/*",
+        "*://www.reddit.com/*",
         "webRequestBlocking"
     ]
 }
